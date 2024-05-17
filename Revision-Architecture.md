@@ -3,9 +3,6 @@
 ## Von Neumann architecture
 
  Von Neumann architecture (also called  Princeton architecture) is still the state-of the-art computing architecture adopted. **Relationship between von Neumann Architecture and MlPS ISA**: MIPS ISA is an implementation of the von Neumann Architecture.
-
-![image-20240513014109351](C:\Users\23650\AppData\Roaming\Typora\typora-user-images\image-20240513014109351.png)
-
 ---
 
 ## Key Metrics of Computer Performance
